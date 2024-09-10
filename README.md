@@ -4,20 +4,28 @@ Este repositório contém uma coleção de exercícios realizados durante o curs
 
 ## Estrutura do Repositório
 
-### Branch `exercicio_html_js`
+### [Branch Main (HTML & CSS)](https://github.com/washryan/exercicios_frontend_ebac/tree/main)
 
-- **[Exercício de Validação com JavaScript](./exercicio_html_js_project/)**  
-  Um exercício prático em JavaScript que valida um formulário. O objetivo é garantir que o valor do Campo B seja maior que o Campo A, exibindo mensagens de sucesso ou erro de acordo com a validação.
+- **[Exercício de CSS](https://github.com/washryan/exercicios_frontend_ebac/tree/main/exercicio_css/)**  
+  Este exercício tem como objetivo demonstrar o conhecimento sobre estilização de páginas web utilizando CSS puro. O foco foi em layout, responsividade e design visual.
+
+- **[Exercício de Formulário de Cadastro](https://github.com/washryan/exercicios_frontend_ebac/tree/main//exercicio_formulario_cadastro/)**  
+  Neste exercício, foi criado um formulário de cadastro funcional, com validações de campos e usabilidade acessível. O objetivo foi aplicar conceitos de HTML e CSS, juntamente com boas práticas de UX (Experiência do Usuário).
+
+---
+
+### [Branch exercicio_html_js (JavaScript)](https://github.com/washryan/exercicios_frontend_ebac/tree/exercicio_html_js/)
+
+- **[Exercício de Validação com JavaScript](https://github.com/washryan/exercicios_frontend_ebac/tree/exercicio_html_js/exercicio_html_js_project)**  
+  Este exercício, presente na branch `exercicio_html_js`, valida um formulário com JavaScript. O objetivo é garantir que o número B seja maior que o número A, exibindo mensagens de sucesso ou erro conforme a validação.
 
 ## Tecnologias Utilizadas
-
-- HTML5: Para estruturação dos exercícios.
-- CSS3: Estilização e design responsivo.
-- JavaScript: Validações e interatividade.
+- HTML: Estruturação das páginas.
+- CSS: Estilização e design visual.
+- JavaScript: Para interatividade e validações.
 
 ## Contato
-
-Caso tenha interesse em discutir as implementações ou ver mais do meu trabalho, entre em contato:
+Se tiver interesse em discutir alguma implementação ou quiser saber mais sobre minha trajetória, entre em contato:
 
 - Email: washr.3103@gmail.com
 - Instagram: https://www.instagram.com/ryanleall/
