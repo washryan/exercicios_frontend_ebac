@@ -12,6 +12,8 @@ Este repositório contém todos os exercícios realizados durante o curso de Fro
 - **[Exercício de Formulário de Cadastro](https://github.com/washryan/exercicios_frontend_ebac/tree/main//exercicio_formulario_cadastro/)**  
   Neste exercício, foi criado um formulário de cadastro funcional, com validações de campos e usabilidade acessível. O objetivo foi aplicar conceitos de HTML e CSS, juntamente com boas práticas de UX (Experiência do Usuário).
 
+---
+
 ### [Branch exercicio_html_js (JavaScript)](https://github.com/washryan/exercicios_frontend_ebac/tree/exercicio_html_js/)
 
 - **[Exercício de Validação com JavaScript](https://github.com/washryan/exercicios_frontend_ebac/tree/exercicio_html_js/exercicio_html_js_project)**  
