@@ -11,16 +11,16 @@ Este repositório contém todos os exercícios realizados durante o curso de Fro
   Neste exercício, foi criado um formulário de cadastro funcional, com validações de campos e usabilidade acessível. O objetivo foi aplicar conceitos de HTML e CSS, juntamente com boas práticas de UX (Experiência do Usuário).
 
 ## Tecnologias Utilizadas
-HTML: Estruturação das páginas.
-CSS: Estilização e design visual.
-JavaScript: Para interatividade e validações (em exercícios futuros).
+- HTML: Estruturação das páginas.
+- CSS: Estilização e design visual.
+- JavaScript: Para interatividade e validações.
 
 ## Contato
 Se tiver interesse em discutir alguma implementação ou quiser saber mais sobre minha trajetória, entre em contato:
 
-Email: washr.3103@gmail.com
-Instagram: https://www.instagram.com/ryanleall/
-LinkedIn: Em construção!
+- Email: washr.3103@gmail.com
+- Instagram: https://www.instagram.com/ryanleall/
+- LinkedIn: Em construção!
 
 ---
 
