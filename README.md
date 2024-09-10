@@ -1,6 +1,6 @@
-# Exercícios do Curso de Frontend da EBAC
+# Repositório de Exercícios do Curso de Full-Stack Java (FrontEnd) - EBAC
 
-Este repositório contém todos os exercícios realizados durante o curso de Frontend da EBAC. Cada exercício está separado por pastas e organizado conforme os módulos do curso. Este repositório serve como portfólio para demonstrar as habilidades adquiridas ao longo do curso.
+Este repositório contém uma coleção de exercícios realizados durante o curso de Full-Stack Java, sendo apenas Frontend da EBAC nesse repositório. Cada exercício está organizado em pastas e reflete a aplicação prática de diferentes conceitos de HTML, CSS e JavaScript.
 
 ## Estrutura do Repositório
 
