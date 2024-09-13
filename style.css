@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f7f7f7;
+}
+
+.container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+  transition: all 0.3s ease;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+form {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+input {
+  flex: 1;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+button {
+  padding: 12px 16px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-left: 10px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #218838;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  transition: background-color 0.3s ease, opacity 0.3s ease;
+  cursor: pointer;
+  position: relative;
+}
+
+ul li.completed {
+  background-color: #d4edda;
+  opacity: 0.6;
+}
+
+ul li.completed .check-icon {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.check-icon {
+  width: 25px;
+  height: 25px;
+  border: 2px solid #28a745;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  color: #28a745;
+  font-weight: bold;
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+ul li.completed .check-icon::after {
+  content: "✓";
+}
+
+ul li span {
+  margin-left: 10px;
+}
