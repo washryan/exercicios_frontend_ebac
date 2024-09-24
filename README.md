@@ -26,6 +26,13 @@ Este repositório contém uma coleção de exercícios realizados durante o curs
 - **[Exercício de Lista de Tarefas](https://github.com/washryan/exercicios_frontend_ebac/tree/exercicio_jquery)**  
   Um exercício prático com a criação de uma lista de tarefas interativa. Usando jQuery, foi possível adicionar tarefas, marcar como concluídas e aplicar efeitos visuais, como a animação ao marcar tarefas finalizadas.
 
+---
+
+### [Branch exercicios_jquery_plugins (jQuery Plugins)](https://github.com/washryan/exercicios_frontend_ebac/tree/exercicios_jquery_plugins)
+
+- **[Exercício de Formulário de Cadastro com jQuery](https://github.com/washryan/exercicios_frontend_ebac/tree/exercicios_jquery_plugins)**  
+  Implementação de um formulário de cadastro que utiliza jQuery para validação, máscaras operativas e um carousel funcional para exibir imagens.
+
 ## Tecnologias Utilizadas
 - **HTML**: Estruturação das páginas.
 - **CSS**: Estilização e design visual.
